@@ -5,6 +5,8 @@
 #
 # This will look through all directory's inside XenoPanel /servers/ and create the correct directory.
 #
+# This Fix is only needed for any panel lower than Build 14.
+#
 
 cd /home/XenoPanel/servers;
 
